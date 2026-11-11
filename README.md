@@ -50,9 +50,9 @@
 本项目**完全免费且开源**，不设任何付费门槛或功能封锁。
 如果你觉得这个小工具帮你省掉了每天切屏搬砖的痛苦，欢迎请作者喝杯咖啡 ☕，支持作者持续迭代支持更多 Agent！
 
-| 微信赞赏 (WeChat Pay) | 支付宝 (Alipay) | Buy Me a Coffee |
-| :---: | :---: | :---: |
-| <img src="wechat_pay.png" width="220" alt="微信赞赏码"> | <img src="alipay.png" width="220" alt="支付宝收款码"> | [☕ Buy Me a Coffee](https://buymeacoffee.com) |
+| 微信赞赏 (WeChat Pay) | 支付宝打赏 (Alipay) |
+| :---: | :---: |
+| <img src="wechat_pay.png" width="220" alt="微信赞赏码"> | <img src="alipay.png" width="220" alt="支付宝收款码"> |
 
 > 扫码请作者喝杯咖啡 ☕，感谢支持！
 
