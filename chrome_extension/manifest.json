@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Gemini Desktop Bridge",
+  "version": "1.0.0",
+  "description": "一键将 Google Gemini 网页端的决策方案派发至本地物理电脑（Antigravity / 本地 Agent）直接执行",
+  "permissions": ["activeTab", "storage"],
+  "host_permissions": [
+    "https://gemini.google.com/*",
+    "http://127.0.0.1:8765/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Gemini Desktop Bridge"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://gemini.google.com/*"],
+      "js": ["content.js"],
+      "css": ["content.css"],
+      "run_at": "document_end"
+    }
+  ]
+}
